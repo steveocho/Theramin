@@ -1,4 +1,4 @@
-# Theramin
+# Theremin
 
 Procedure
 
