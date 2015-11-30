@@ -2,7 +2,7 @@
 
 int trigpin = 11;
 int echopin = 12;
-int speakerout = 6;
+int speakerout = 8;
 double duration, cm, inches;
 
 void setup() {
