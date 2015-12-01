@@ -19,6 +19,11 @@ theremin.ino - Arduino file that connects sensor values to output duration and d
 * MOSFET (2N7000)
 * Arduino Microcontroller (Uno)
 
+|Part|Value|Amount|
+|----|-----|------|
+|C|1uF|2|
+|R1|-|1|
+
 **Audio Amplifier Circuit**
 
 ![](http://i.cmpnet.com/audiodesignline/2010/discrete_audio_amplifier_basics_fig9.13.jpg)
