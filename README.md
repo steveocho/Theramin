@@ -5,6 +5,13 @@ This repository gathers together current open source information concerning audi
 
 We hope to see it expanded on and possibly made into a product that can be enjoyed inside and outside of the open source community.
 
+**Code**
+
+pitches.h - Defined pitch constants found on the Arduino site:
+https://www.arduino.cc/en/Tutorial/ToneMelody?from=Tutorial.Tone
+
+theremin.ino - Arduino file that connects sensor values to output duration and distance in cm.
+
 **Parts List**
 
 * Capacitors (x2) - 1 uF each
