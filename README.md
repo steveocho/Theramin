@@ -12,6 +12,7 @@ We hope to see it expanded on and possibly made into a product that can be enjoy
 * MOSFET (2N7000)
 * Arduino Microcontroller (Uno)
 
+Audio Amplifier Circuit
 ![](http://i.cmpnet.com/audiodesignline/2010/discrete_audio_amplifier_basics_fig9.13.jpg)
 
 **Procedure**
